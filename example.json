@@ -1,0 +1,268 @@
+{
+  "templates": [
+    "$las10MejoresRecetasDePasta",
+    "$los7HabitosdeLosTriunfadores",
+    "$microsoftSeSuperaConSuNuevoProducto",
+    "$comoPerder10kilosSinEsfuerzo"
+  ],
+  "$comoPerder10kilosSinEsfuerzo": [
+    "$como $perder [[ [[un par de-2-4-5-10]] kilos [[\b-que te sobran]]-esos michelines-unos kilitos-esos kilitos de más]] $sinEsfuerzo"
+  ],
+  "$como": [
+    "como",
+    "la [[\b-mejor]] [[manera-forma]] de",
+    "el [[\b-mejor]] [[método-sistema]] para",
+    "la [[manera-forma]] [[más rápida-más efectiva]] de",
+    "el [[método-sistema]] [[más rápido-más efectivo]] para"
+  ],
+  "$perder": [
+    "perder",
+    "bajar",
+    "deshacerte de",
+    "adelgazar"
+  ],
+  "$sinEsfuerzo": [
+    "\b",
+    "sin esfuerzo",
+    "cómodamente",
+    "sin darte cuenta",
+    "de una vez por todas",
+    "y no recuperarlos",
+    "de forma definitiva"
+  ],
+
+  "$microsoftSeSuperaConSuNuevoProducto": [
+    "$microsoft $seSupera $conSuNuevoProducto"
+  ],
+  "$microsoft": [
+    "Microsoft",
+    "Apple",
+    "IBM",
+    "google",
+    "facebook",
+    "nokia",
+    "samsung",
+    "xiaomi",
+    "samsung"
+  ],
+  "$seSupera": [
+    "se supera",
+    "sorprende",
+    "innova",
+    "defrauda",
+    "te conquistará",
+    "tiene problemas"
+  ],
+  "$conSuNuevoProducto": [
+    "con su [[nuevo-reciente-último-\b]] $producto [[\b-mas [[innovador-ambicioso]]]]",
+    "con su [[reciente-nueva-última-\b]] $iniciativa [[\b-mas [[innovadora-ambiciosa]]]]"
+  ],
+  "$producto": [
+    "producto",
+    "lanzamiento",
+    "servicio",
+    "proyecto"
+  ],
+  "$iniciativa": [
+    "iniciativa",
+    "actualización",
+    "mejora",
+    "propuesta"
+  ],
+
+  "$las10MejoresRecetasDePasta": [
+    "las [[12-10-6-7-5-4-3-2-\b]] $mejoresRecetasDePasta",
+    "los [[12-10-6-7-5-4-3-2-\b]] $mejoresPlatosDePasta",
+    "[[12-10-7-6-5-4-3-2-\b]] $recetasDePastaSaludables"
+  ],
+  "$mejoresPlatosDePasta": [
+    "mejores platos [[de-con]] $pasta",
+    "platos [[de-con]] $pasta [[mas $sanos-mas $facilesDeHacer-$queEvitarAtodaCosta-con los que $triunfaras-$mejorValoradosEsteMes]]"
+  ],
+  "$mejoresRecetasDePasta": [
+    "mejores recetas [[de-con]] $pasta",
+    "recetas [[de-con]] $pasta [[mas $sanas-mas $facilesDeHacer-$queEvitarAtodaCosta-con los que $triunfaras-$mejorValoradasEsteMes]]"
+  ],
+  "$recetasDePastaSaludables": [
+    "$recetas [[$queEvitarAtodaCosta-con las que $triunfaras]]",
+    "$platos [[$queEvitarAtodaCosta-con los que $triunfaras]]",
+    "$platos $sanos [[$queEvitarAtodaCosta-con los que $triunfaras]]",
+    "$recetas $sanas [[$queEvitarAtodaCosta-con las que $triunfaras]]",
+    "$recetas $facilesDeHacer [[$queEvitarAtodaCosta-con las que $triunfaras]]",
+    "$platos $facilesDeHacer [[$queEvitarAtodaCosta-con los que $triunfaras]]",
+    "[[$platos-$recetas]] [[de-con]] $pasta",
+    "$platos [[de-con]] $pasta [[$sanos-$facilesDeHacer-$queEvitarAtodaCosta-con las que $triunfaras]]",
+    "$recetas [[de-con]] $pasta [[$sanas-$facilesDeHacer-$queEvitarAtodaCosta-con los que $triunfaras]]"
+  ],
+  "$platos": [
+    "platos",
+    "platos [[$tradicionales-$argentinos-de la cocina $argentina]]"
+  ],
+  "$recetas": [
+    "recetas",
+    "recetas [[$tradicionales-$argentinas-de la cocina $argentina]]"
+  ],
+  "$tradicionales": [
+    "tradicionales",
+    "clasicos",
+    "innovadores",
+    "de toda la vida",
+    "de tu abuela",
+    "de internet",
+    "de tuiter"
+  ],
+  "$argentina": [
+    "argentina",
+    "brasileña",
+    "mexicana",
+    "expañola",
+    "asturiana",
+    "mediterranea",
+    "asiatica",
+    "italiana",
+    "francesa"
+  ],
+  "$argentinas": [
+    "argentinas",
+    "brasileñas",
+    "mexicanas",
+    "expañolas",
+    "asturianas",
+    "mediterraneas",
+    "asiaticas",
+    "italianas",
+    "francesas"
+  ],
+  "$argentinos": [
+    "argentinos",
+    "brasileños",
+    "mexicanos",
+    "expañolos",
+    "asturianos",
+    "mediterraneos",
+    "asiaticos",
+    "italianos",
+    "franceses"
+  ],
+  "$pasta": [
+    "pasta",
+    "arroz",
+    "patatas",
+    "guisantes",
+    "garbanzos",
+    "alubias",
+    "legumbres",
+    "pescado",
+    "carne"
+  ],
+  "$sanos": [
+    "sanos",
+    "sabrosos",
+    "divertidos"
+  ],
+  "$sanas": [
+    "sanas",
+    "sabrosas",
+    "divertidas"
+  ],
+  "$mejorValoradosEsteMes": [
+    "$mejorValorados",
+    "$mejorValorados $esteMes"
+  ],
+  "$mejorValorados": [
+    "mejor valorados",
+    "mas compartidos",
+    "mas compartidos [[por-en]] [[facebook-twiter-internet-whatsapp]]",
+    "mejor valorados por [[las amas de casa-los medicos-los estudiantes-los jubilados]]",
+    "mas compartidos por [[las amas de casa-los medicos-los estudiantes-los jubilados]]"
+  ],
+  "$mejorValoradasEsteMes": [
+    "$mejorValoradas",
+    "$mejorValoradas $esteMes"
+  ],
+  "$mejorValoradas": [
+    "mejor valoradas",
+    "mas compartidas",
+    "mejor valoradas por [[las amas de casa-los medicos-los estudiantes-los jubilados]]",
+    "mas compartidas por [[las amas de casa-los medicos-los estudiantes-los jubilados]]"
+  ],
+  "$esteMes": [
+    "este mes",
+    "este año",
+    "esta semana",
+    "estos dias",
+    "ahora",
+    "actualmente"
+  ],
+  "$facilesDeHacer": [
+    "faciles de hacer",
+    "saludables",
+    "sorprendentes",
+    "originales"
+  ],
+  "$queEvitarAtodaCosta": [
+    "que evitar a toda costa"
+  ],
+  "$triunfaras": [
+    "[[ahorraras-triunfaras-adelgazaras-engordaras]]",
+    "[[sorprenderas-conquistaras-enamoraras]] a [[tus hijos-tu familia-tu pareja-tu suegra]]",
+    "ahorraras [[tiempo-dinero]]",
+    "[[adelgazaras-engordaras]] [[sin darte cuenta-rapidamente-en una semana-a tu ritmo-constantemente]]",
+    "[[adelgazaras-engordaras]] [[10-5-un par de]] kilos [[sin darte cuenta-rapidamente-en una semana]]",
+    "[[adelgazaras-engordaras]] [[10-5-un par de]] kilos"
+  ],
+
+  "$los7HabitosdeLosTriunfadores": [
+    "[[los [[2-5-7-10-12-\b]] [[increibles-sorprendentes-mejores-\b]] $habitos-las [[2-5-7-10-12-\b]] [[increibles-sorprendentes-mejores-\b]] $costumbres]] de [[los $triunfadores-las $triunfadoras]] [[\b-que $tienesQue $aprender [[\b-para $triunfar]]]]"
+  ],
+  "$costumbres": [
+    "costumbres",
+    "enseñanzas"
+  ],
+  "$habitos": [
+    "habitos",
+    "secretos [[\b-mejor guardados]]"
+  ],
+  "$triunfadores": [
+    "triunfadores",
+    "politicos",
+    "famosos",
+    "youtubers",
+    "directivos",
+    "emprendedores",
+    "jubilados",
+    "deportistas",
+    "genios"
+  ],
+  "$triunfadoras": [
+    "triunfadoras",
+    "politicas",
+    "famosas",
+    "youtubers",
+    "directivas",
+    "emprendedoras",
+    "jubiladas",
+    "deportistas",
+    "genios"
+  ],
+  "$tienesQue": [
+    "tienes que",
+    "debes",
+    "necesitas",
+    "deberías"
+  ],
+  "$aprender": [
+    "aprender",
+    "conocer",
+    "interiorizar",
+    "estudiar",
+    "imitar",
+    "replicar",
+    "compartir"
+  ],
+  "$triunfar": [
+    "triunfar",
+    "ser feliz"
+  ]
+
+}

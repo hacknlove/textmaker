@@ -1,0 +1,29 @@
+{
+  "name": "textmaker",
+  "version": "1.0.0",
+  "description": "Generate texts with a rich and descriptive microlanguage of recursive sustitutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hacknlove/generatetext.git"
+  },
+  "keywords": [
+    "text",
+    "generate",
+    "automatic",
+    "text",
+    "generation"
+  ],
+  "author": "Antonio Fernández Porrúa (hacknlove)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hacknlove/generatetext/issues"
+  },
+  "homepage": "https://github.com/hacknlove/generatetext#readme",
+  "dependencies": {
+    "seedrandom": "^3.0.1"
+  }
+}
