@@ -4,7 +4,7 @@
 
 ## Instalation
 ```
-  npm install textmaker
+  npm install @hacknlove/textmaker
 ```
 
 ## Usage

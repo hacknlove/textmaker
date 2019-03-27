@@ -1,5 +1,5 @@
 {
-  "name": "textmaker",
+  "name": "@hacknlove/textmaker",
   "version": "1.0.0",
   "description": "Generate texts with a rich and descriptive microlanguage of recursive sustitutions",
   "main": "index.js",
