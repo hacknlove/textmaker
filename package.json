@@ -1,6 +1,6 @@
 {
   "name": "@hacknlove/textmaker",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Generate texts with a rich and descriptive microlanguage of recursive sustitutions",
   "main": "index.js",
   "scripts": {

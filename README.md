@@ -122,6 +122,3 @@ The transformations are done in 4 steps:
 Each step is done iteratively until there is no more setting or substitutions to do
 
 If one o more substitutions were done in the 4th step, the process start again from the first step. Otherwise the process ends.
-
-
-* [] unit testing
