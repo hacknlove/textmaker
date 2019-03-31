@@ -61,16 +61,12 @@ class TextMaker {
   sustitutions () {
     this.unfinished = false
     const processed = []
-    console.log(this.txt)
     while (true) {
       const match = this.txt.match(regexSustitution1)
-      console.log(match)
       if (!match) {
         this.txt = processed.join('') + this.txt
-        console.log(this.txt)
         return
       }
-      console.log('ok')
       if (match[0].includes('%')) {
         processed.push(match[0])
         this.txt = this.txt.substr(match[0].length)
@@ -101,15 +97,10 @@ class TextMaker {
     this.next = this.setVariables
     this.unfinished = true
     while (this.unfinished) {
-      console.log(this.txt)
       this.setVariables()
-      console.log(this.txt)
       this.variableSustitution()
-      console.log(this.txt)
       this.simpleChoice()
-      console.log(this.txt)
       this.sustitutions()
-      console.log(this.txt)
     }
 
     return this.txt
