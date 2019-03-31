@@ -4,7 +4,7 @@
   "description": "Generate texts with a rich and descriptive microlanguage of recursive sustitutions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx ava --watch --timeout 2000 --verbose test.js"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,8 @@
   "homepage": "https://github.com/hacknlove/generatetext#readme",
   "dependencies": {
     "seedrandom": "^3.0.1"
+  },
+  "devDependencies": {
+    "ava": "^1.4.1"
   }
 }

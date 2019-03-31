@@ -30,6 +30,17 @@ you can check [example.json](example.json)
 
 It contains string templates that includes plain text, **direct sustitutions** and **referenced sustitutions**
 
+### Set variable
+The template `"...((name: value))..."` will set a variable called `name` with the value `value`
+
+The value can be any template, but direct nesting is not allowed.
+
+* `...((foo:...((bar:buz))...))...` is not allowed.
+* `...((foo:...$bar))` it is always allowed even if `$bar` can be sustituted with `...((bar:buz))...`
+
+### Variable substitutions
+The template ``"...%name..." will generate `...value...` where `value` is the value of the variable called `name`
+
 ### Direct sustitutions
 
 The template ``"I want [[cake-fruit-pie]]"`` will generate
@@ -99,7 +110,18 @@ This array contains the fist level templates, those that the generator picks in 
 
 It could be as complicated as you want, but it is preferable to keep them as simple as possible so they could be an index to the human eyes, so you can know at a glance what each one generates.
 
-## Roadmap
+### Process flow
+
+The transformations are done in 4 steps:
+
+1. variable setting
+2. variable sustitutions
+3. simple sustitutions
+4. reference sustitutions
+
+Each step is done iteratively until there is no more setting or substitutions to do
+
+If one o more substitutions were done in the 4th step, the process start again from the first step. Otherwise the process ends.
+
 
 * [] unit testing
-* [] variable sustitution: ``"... (name:value) ..."`` establishs the variable that will replace `%name` in `"... %name ..."` as soon as possible.
